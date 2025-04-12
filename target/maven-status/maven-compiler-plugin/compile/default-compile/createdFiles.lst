@@ -1,0 +1,7 @@
+com\group10\config\AppInitializer.class
+com\group10\controller\HomeController.class
+com\group10\dao\StudentDAO.class
+com\group10\dao\StudentDAOImpl.class
+com\group10\controller\StudentController.class
+com\group10\config\AppConfig.class
+com\group10\model\Student.class
